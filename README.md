@@ -9,6 +9,8 @@
 
 <p align="center"><a href="../../releases/latest"><b>Скачать rdp-cert-fix.exe</b></a></p>
 
+<p align="center"><a href="https://www.virustotal.com/gui/file-analysis/MGVlMmI0ZGUwMjg0ZWYxMWQ0MWJkNDAwNzYyYjZmNzk6MTc5MDY3NTc2Mw==">Проверка на VirusTotal</a> · SHA-256 v1.0.0: <code>cb29f2d5bdc32388a4ca0bb975034aa97156d001aba2249ba975127d24dca4b7</code></p>
+
 ---
 
 ## Как проявляется
