@@ -5,7 +5,7 @@
 <p align="center">Восстановление сертификата удалённого рабочего стола Windows, сломанного КриптоПро CSP.<br>
 Одна кнопка, без установки и без зависимостей.</p>
 
-<p align="center"><img src="docs/screenshot.png" width="640" alt="Окно программы"></p>
+<p align="center"><img src="docs/screenshot-main.png" width="640" alt="Окно программы"></p>
 
 <p align="center"><a href="../../releases/latest"><b>Скачать rdp-cert-fix.exe</b></a></p>
 
